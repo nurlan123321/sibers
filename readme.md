@@ -1,5 +1,3 @@
-Sibers Testwork
-
 Для Back-end использовал Laravel 5, MySQL
 
 Для Front-end использовал Bootstrap
